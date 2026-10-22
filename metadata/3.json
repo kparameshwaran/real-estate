@@ -1,0 +1,33 @@
+{
+    "name": "WA Nature Coastal Estate",
+    "address": "183 Woodland Drive, Camano Island, WA 98282",
+    "description": "Cantilevered architectural coastal sanctuary suspended over the serene waters of Puget Sound. Boasts custom Pacific cedar craftsmanship, wraparound panoramic terrace, fire lounge, and private beach access.",
+    "image": "/images/3.jpg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Coastal Residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2202
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        }
+    ]
+}

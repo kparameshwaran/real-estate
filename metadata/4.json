@@ -1,0 +1,33 @@
+{
+    "name": "Biscayne Bay Ultra Villa",
+    "address": "444 Ocean Drive, Miami Beach, FL 33139",
+    "description": "Spectacular modern waterfront villa on Biscayne Bay with private yacht dock, glass cantilever balconies, resort-style heated lap pool with sun shelves, and dramatic twilight views of the Miami skyline.",
+    "image": "/images/4.jpg",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 25
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Waterfront Villa"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 5800
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2023
+        }
+    ]
+}
